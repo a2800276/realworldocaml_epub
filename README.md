@@ -5,11 +5,11 @@ Real World OCaml (located: https://realworldocaml.org/)
 
 Real World OCaml is graciously offered by O'Reilly under the 
 
-  Attribution-NonCommercial-NoDerivs 3.0 United States 
+    Attribution-NonCommercial-NoDerivs 3.0 United States 
 
 creative commons license (CC BY-NC-ND 3.0 US)
 
-  Copyright 2012-2013, Jason Hickey, Anil Madhavapeddy and Yaron Minsky. Licensed under CC BY-NC-ND 3.0 US.
+    Copyright 2012-2013, Jason Hickey, Anil Madhavapeddy and Yaron Minsky. Licensed under CC BY-NC-ND 3.0 US.
 
 This license specifically allows non-commerical distribution in alternative formats.
 
